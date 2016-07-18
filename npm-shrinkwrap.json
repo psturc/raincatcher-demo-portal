@@ -2232,7 +2232,7 @@
     "psturc-fh-wfm-user": {
       "version": "0.0.20",
       "from": "psturc-fh-wfm-user@0.0.20",
-      "resolved": "https://registry.npmjs.org/fh-wfm-user/-/fh-wfm-user-0.0.19.tgz",
+      "resolved": "https://registry.npmjs.org/psturc-fh-wfm-user/-/psturc-fh-wfm-user-0.0.20.tgz",
       "dependencies": {
         "fh-mbaas-api": {
           "version": "5.13.1",
